@@ -1,4 +1,4 @@
-Instructions: The Java language version is 8(JDK 1.8). Use the Netbeans IDE for compile and execute the software. Otherwise, go to the folder "dist" in project folder and execute the executable jar file "EDIProject".
+Instructions: The Java language version is 8(JDK 1.8). Use the Netbeans IDE for compile and execute the software. Otherwise, go to the folder "dist" in project folder and execute the executable jar file "EDProject".
 
 ========================
 BUILD OUTPUT DESCRIPTION
