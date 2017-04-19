@@ -1,5 +1,7 @@
 Instructions: The Java language version is 8(JDK 1.8). Use the Netbeans IDE for compile and execute the software. Otherwise, go to the folder "dist" in project folder("src") and execute the executable jar file "EDProject".
 
+Obs: The folder "data" contains one archive for test the functionality of opening files.
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
