@@ -1,3 +1,5 @@
+Instructions: The Java language version is 8(JDK 1.8). Use the Netbeans IDE for compile and execute the software. Otherwise, go to the folder "dist" in project folder and execute the executable jar file "EDIProject".
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
@@ -30,5 +32,3 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
-
-Obs: The Java language version is 8(JDK 1.8). Use the Netbeans IDE for compile and execute the software. Otherwise, go to the folder "dist" in project folder and execute the executable jar file "EDIProject".
