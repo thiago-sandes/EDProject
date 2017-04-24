@@ -11,7 +11,7 @@ package edproject;
  * 
  * @author Thiago Sandes e André Biriba
  * @version 1.0 
- * @since entrega de projeto da materia de POO 18/04/2017
+ * @since entrega de projeto da materia Estrutura de Dados.
  */
 public abstract class Agente {
 
